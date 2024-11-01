@@ -1,0 +1,71 @@
+body
+{
+	background-color:lightslategrey;
+	font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+p{
+	line-height:1.8;
+}
+.graf1
+{
+	text-align:left;
+}
+h1
+{
+	font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+h3
+{
+font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align:center;	
+}
+h4
+{
+	font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-align:center;
+}
+.callout
+{
+	border-color:black;
+	border-width:2px;
+	text-align: center;
+	font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  background-color: lightgrey;
+}
+h5
+{
+	font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.videobox
+{
+	border-color:black;
+	border-width:1px;
+	padding-top:20px;
+	text-align: center;
+}
+.photocaption
+{
+	text-align: center;
+}
+.graphbox
+{
+	text-align: center;
+}
