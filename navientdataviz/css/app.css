@@ -1,0 +1,30 @@
+body
+{
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  background-color: #b6d7a8;
+}
+p{
+	line-height:1.8;
+}
+h1
+{
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.graphbox
+{
+	text-align: center;
+}
+footer { 
+	background-color:lightgrey; 
+	margin-top:40px;
+}
+.byline
+{
+	text-align: center;
+}
